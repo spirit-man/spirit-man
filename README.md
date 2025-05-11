@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **spirit-man/spirit-man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 #  🙋 Hello
 
 <table>
@@ -34,13 +35,17 @@ Here are some ideas to get you started:
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-man&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 <div align="center">
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
-![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
-![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat">
+  <img src=>
+  <img src=>
+  <img src=>
 </div>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/assets/images/hr.gif" />
