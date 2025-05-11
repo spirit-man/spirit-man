@@ -23,7 +23,7 @@ jobs:
           template: repository
           filename: metrics.repository.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: lowlighter
+          user: spirit-man
           repo: metrics
           plugin_lines: yes
           plugin_followup: yes
