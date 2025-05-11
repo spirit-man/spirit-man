@@ -35,58 +35,31 @@ Here are some ideas to get you started:
 <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit-man&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Lisp-000000?logo=lisp&logoColor=fff&style=flat">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat">
-  <img src=>
-  <img src=>
-  <img src=>
+  <br>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobe%20photoshop&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobe%20premiere%20pro&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?logo=adobe%20after%20effects&logoColor=fff&style=flat">
+  <img src="https://img.shields.io/badge/Adobe%20Audition-9999FF?logo=adobe%20audition&logoColor=fff&style=flat">
 </div>
 
+</td></tr>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/assets/images/hr.gif" />
-
-<!-- GitHub metrics 信息指标 -->
+<tr><td>
+  
 <div align="center">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="500" />
+</div>
 
-<!-- just img 图片 -->
-<img width="36%" src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/assets/images/githubgif.gif" />
+</td></tr>
 
-<!-- first form 第一个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/people.followers.svg" alt="people.followers" /></td>
-  </tr>
-</table>
-
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/stars.svg" alt="stars" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/spirit-man/spirit-man/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
 </table>
